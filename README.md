@@ -1,13 +1,13 @@
-<h1 align="center">Hi 👋, I'm Shiva Charan Reddy Kallem</h1>
+<h1 align="center">Hi there👋, I'm Shiva Chary Srimanthula</h1>
 <h3 align="center">Passionate developer constantly learning and improving</h3>
 
-- 🔭 I’m currently working on **OpenCV Projects and ML Projects**
+- 🔭 I’m currently working on **Web Application**
 
-- 🌱 I’m currently learning **AI and ML**
+- 🌱 I’m currently learning **Java Full Stack**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/shivacharanreddykallem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shiva-charan-reddy-kallem" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/shiva-chary-srimanthula-593392310" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shiva-charan-reddy-kallem" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
